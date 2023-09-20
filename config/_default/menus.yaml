@@ -1,0 +1,32 @@
+leftnav:
+- identifier: 52f85e6b-3136-df4c-fbcb-bf0d58cb8761
+  name: Syllabus
+  pageRef: /pages/syllabus
+  weight: 10
+- identifier: 1180ff09-94d0-1c25-c1c0-a62ddf629050
+  name: Calendar
+  pageRef: /pages/calendar
+  weight: 20
+- identifier: f465098a-5ffe-e131-e88d-7a17ba75557d
+  name: Readings
+  pageRef: /pages/readings
+  weight: 30
+- identifier: 547c48a4-6a23-8c45-abbd-69efcc0fb43f
+  name: Assignments
+  pageRef: /pages/assignments/
+  weight: 40
+- identifier: 63b75476-0319-595e-e33e-55ec81fb055f
+  name: Ethnographic Assignment 1
+  pageRef: /pages/assignments/ethnographic-assignment-1
+  parent: 547c48a4-6a23-8c45-abbd-69efcc0fb43f
+  weight: 50
+- identifier: 80654b83-be58-8605-bb44-8fe01da09d00
+  name: Ethnographic Assignment 2
+  pageRef: /pages/assignments/ethnographic-assignment-2
+  parent: 547c48a4-6a23-8c45-abbd-69efcc0fb43f
+  weight: 60
+- identifier: 1ae9fc3a-50f4-5cc2-e139-dcb1c9a4a988
+  name: Ethnographic Assignment 3
+  pageRef: /pages/assignments/ethnographic-assignment-3-define-personhood
+  parent: 547c48a4-6a23-8c45-abbd-69efcc0fb43f
+  weight: 70
